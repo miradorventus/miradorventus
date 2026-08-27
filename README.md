@@ -13,8 +13,8 @@ management that does not quietly store the same twelve gigabytes twice.
 Measurements that describe *your* machine instead of someone else's leaderboard.
 
 What I actually enjoy is the moment something that looked reserved for other
-people - a bigger budget, the right brand of card, a spare week to fight with it
-- turns out to run fine on an ordinary machine. Local AI is drifting toward
+people - a bigger budget, the right brand of card, a spare week to fight with
+it - turns out to run fine on an ordinary machine. Local AI is drifting toward
 people who already have the hardware and the vocabulary, and it does not have to.
 Getting more people to that moment is most of the point.
 
