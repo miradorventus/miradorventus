@@ -32,6 +32,7 @@ rewriting them.
 **Name the hardware.** Radeon RX 9070 XT (16 GB), Windows 11 and Linux Mint.
 Numbers from that machine are labelled as such; mechanisms that generalize are
 labelled as such too.
+
 ### Currently
 
 Working out what a local reasoning model can actually be trusted with on a
