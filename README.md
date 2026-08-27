@@ -32,10 +32,12 @@ measurement setup does not throw an error - it hands you numbers that agree with
 each other, look reasonable, and are not true. Most of my benchmarking time now
 goes into attacking my own results before trusting them.
 
-**Read the repository, not the search results.** I have written tools that
-already existed, in better versions, by people who had thought about it longer.
-That is a specific kind of expensive. Now I go and read the thing first, and
-assemble what works before writing anything new.
+**Ask "are you sure?" one more time.** A surprising share of what got fixed in
+these projects came from refusing the first answer - mine, a tool's, or the top
+search result's. The question costs nothing and it keeps finding things that
+looked settled. The counterweight is knowing when to stop: I will cheerfully
+chase a better version of something that already worked, and perfect is the
+enemy of good.
 
 **Say which machine.** Radeon RX 9070 XT (16 GB), Windows 11 and Linux Mint.
 "Works on my machine" is only useful information if you say whose machine, so
