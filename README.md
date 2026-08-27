@@ -1,7 +1,7 @@
 ## Local AI on hardware people actually own
 
-I bought a Radeon because it was the better card for the money. Then I tried to
-run a local model on it, and discovered what that really costs.
+I bought a Radeon RX 9070 XT because it was the better card for the money. Then
+I tried to run a local model on it, and found out what that really costs.
 
 If you have an AMD card you already know the shape of it: the guide stops working
 at step four, the wheel does not exist for your ROCm version, and the most recent
@@ -12,8 +12,9 @@ So I build the half that is missing. Installers that get to the end. Model
 management that does not quietly store the same twelve gigabytes twice.
 Measurements that describe *your* machine instead of someone else's leaderboard.
 
-Everything here was tested on the machine it was written for, and I tell you
-which machine that is.
+Everything here was tested on the machine it was written for - that card, 16 GB,
+on Windows 11 and Linux Mint. Numbers that belong to it are labelled as such, and
+so are the mechanisms that travel to yours.
 
 ### Projects
 
@@ -39,10 +40,11 @@ looked settled. The counterweight is knowing when to stop: I will cheerfully
 chase a better version of something that already worked, and perfect is the
 enemy of good.
 
-**Say which machine.** Radeon RX 9070 XT (16 GB), Windows 11 and Linux Mint.
-"Works on my machine" is only useful information if you say whose machine, so
-numbers that belong to this one are labelled, and so are the mechanisms that
-travel to yours.
+**Build for the person who should not have to know.** Every project here exists
+because the alternative was a forum thread and a lost afternoon. If you have to
+switch off your own security settings to install my tool, or paste six commands
+in the right order, or read my source to find out what it will touch - then it
+is not finished, and that is my problem to fix, not yours to work around.
 
 ### Currently
 
