@@ -12,6 +12,12 @@ So I build the half that is missing. Installers that get to the end. Model
 management that does not quietly store the same twelve gigabytes twice.
 Measurements that describe *your* machine instead of someone else's leaderboard.
 
+What I actually enjoy is the moment something that looked reserved for other
+people - a bigger budget, the right brand of card, a spare week to fight with it
+- turns out to run fine on an ordinary machine. Local AI is drifting toward
+people who already have the hardware and the vocabulary, and it does not have to.
+Getting more people to that moment is most of the point.
+
 Everything here was tested on the machine it was written for - that card, 16 GB,
 on Windows 11 and Linux Mint. Numbers that belong to it are labelled as such, and
 so are the mechanisms that travel to yours.
