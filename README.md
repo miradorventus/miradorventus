@@ -26,6 +26,7 @@ so are the mechanisms that travel to yours.
 
 | Project | What it does |
 |---|---|
+| **[Le Bon Dosage](https://miradorventus.github.io/Le-bon-dosage/)** | Free construction calculator for masons, in French: concrete, render, tile adhesive and grout, tiles, stairs, blocks by the pallet. Built with a mason friend, works offline on the phone, nothing leaves it. [Code](https://github.com/miradorventus/Le-bon-dosage) · [Ko-fi](https://ko-fi.com/lebondosage) |
 | **[ollama-amd-plug-and-play](https://github.com/miradorventus/ollama-amd-plug-and-play)** | Ollama + Open WebUI on AMD, with ROCm set up for you. Ubuntu / Mint. |
 | **[comfyui-amd-plug-and-play](https://github.com/miradorventus/comfyui-amd-plug-and-play)** | ComfyUI on AMD, AllTalk and Wan2.2 workflows ready to run. Ubuntu / Mint. |
 | **[EZmodL](https://github.com/miradorventus/EZmodL)** | GGUF model manager for llama-swap: search HuggingFace, classify quantizations against your real VRAM budget, symlink Ollama blobs instead of duplicating gigabytes. |
